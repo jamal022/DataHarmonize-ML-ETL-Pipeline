@@ -1,5 +1,5 @@
 # **DataHarmonize: Machine Learning ETL Pipeline**
-**Screenshot:**
+**Pipeline:**
 
 ![DataHarmonize](./dataharmonize.png)
 
