@@ -23,3 +23,6 @@ DataHarmonize is an ETL (Extract, Transform, Load) pipeline designed for machine
 2. Install dependencies with `pip install -r requirements.txt`.
 3. Customize transformations in `utils.py`.
 4. Run the ETL script using `python etl.py`.
+
+**Dataset**
+You can find the dataset at this link: https://archive.ics.uci.edu/dataset/320/student+performance
