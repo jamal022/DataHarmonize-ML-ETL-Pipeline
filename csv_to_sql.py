@@ -4,7 +4,7 @@ import sqlalchemy
 
 # SQL Server details
 DRIVER = 'SQL Server Native Client 11.0'
-SERVER = os.environ['MY_SERVER']'
+SERVER = os.environ['MY_SERVER']
 DATABASE = 'MLDataDB'
 
 # Connection String for Windows Authentication
